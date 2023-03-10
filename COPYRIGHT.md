@@ -1,4 +1,4 @@
-(c) 2023 Mike Vermeer. All rights reserved.
+&copy; 2023 Mike Vermeer. All rights reserved.
 
 Pylogger is a Python-based keylogger software developed by Mike Vermeer. This software is protected by copyright laws and international treaties. Unauthorized reproduction or distribution of this software, or any portion of it, may result in severe civil and criminal penalties, and will be prosecuted to the maximum extent possible under the law.
 
